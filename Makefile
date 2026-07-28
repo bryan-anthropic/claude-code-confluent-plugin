@@ -22,7 +22,7 @@ release-ci:
 	@echo "[release-ci] no-op"
 
 epilogue-ci:
-	@echo "[epilogue-ci] done"
+	@echo "[epilogue-ci] done."
 
 testbreak-after:
 	@echo "[testbreak-after] no-op"
